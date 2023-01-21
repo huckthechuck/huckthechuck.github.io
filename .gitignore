@@ -1,4 +1,6 @@
 _site
+_site/*
+_site/*.*
 _site/**
 .sass_cache
 .jekyll-cache
