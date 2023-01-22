@@ -1,0 +1,2 @@
+# Peer reviews
+Nothing appears in high quality journals like the Lancet, the New England Journal of Medicine etc. without being vetted first by the top experts in the field, requests for multiple extensive revisions are routine. Since, in software development, the quality of code being written is the key output of developers, we must apply similar levels of rigor in properly reviewing code and design work.
