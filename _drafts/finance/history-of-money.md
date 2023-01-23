@@ -38,6 +38,26 @@ The possibility that interest-rates rise after you have loaned the money, result
 
 In the contemporary world of fiat currencies (currencies that are not pegged to anything physical like head of cattle, gold or real-estate), interest-rate risk is synonymous with inflation risk.
 
+# Short-term risks vs Long-term risks
+Risk comes in two forms short-term and long-term. Short-term risk can be easier to reason about, using a statistical tool - Standard Deviation that describes the scatter of a series of values around their mean. The value at which 1/6th of the datapoints lie is called 1 SD away from the mean, and the value at which 2% of the values lie represents 2 SD.
+
+Long-term risk is the probability of running out of money over the decades. While long-term risks are more important than short-term risks, humans tend to live in the moment and hence are more affected by and pay attention to short-term risks than long-term risks. 
+
+In the long-term stock returns are mean-reverting. This is usually because a series of bad years are followed by a series of good-years and vice-versa. This does not hold true for bonds, because the interest-rates on the bonds are fixed regardless of the duration.
+
+
+# How to evaluate risk
+A simple measure of short-term risk is standard deviation. Standard deviation measures the degree of scatter of a series of values around the average. The degree of scatter is usually described at two points: 1 SD, which represents the value at which 1/6th of the values lie,  and 2 SD, representing the value at which 2% of the values lie. 
+
+Adult males have an average height of 69 inches with a SD of 3, this implies 1/6th (16.7%) of the men will be taller than 72 inches, and another 16.7% will be 66 inches or shorter. Additionally, 2% of the men will be taller than 75 inches, and 2% of the men will be shorter than 63 inches. 
+
+The average annual returns for the U.S stock market are 10% with a SD of 20%. This implies the US stock market could return 20% or above once every 6 years, and similarly could fall by 20% or more once every 6 years. A worst-case scenario is a minus 2 SD result (a loss of 30%) which should occur 2% of the time. We seem to be in such a worst-case period in 202022-2023.
+
+# The only thing with stocks...
+There are 2 key things when dealing with stocks:
+  1. Don't get wiped out during the lean years. A way to implement this is to use Index Funds to spread out the risk over a basket of securities.
+  2. Have the staying power to not sell during downturns: This requires having sufficient emergency funds to withstand the storms that will eventually subside, and let the sun shine again.
+
 # Barbarians at the gate
 High returns are attained by buying low and selling high. Assets sell at low prices only when there is high uncertainty (i.e.: risk). The low prices that provide high future returns are not possible without catastrophe and risk. Thus buying when prices are low is almost always a scary proposition. (E.g.: Great Depression: 1920s, Secural bear market: 1970s, Dot-Com crash: 2000s, Great Recession: 2008s, Covid19: 2022s).
 
