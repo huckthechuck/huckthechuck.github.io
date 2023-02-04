@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PoleStar Consulting Services
-email: huckthechuck@polestar.services
+# title: PoleStar Consulting Services
+# email: huckthechuck at polestar dot services
 description: >- # this means to ignore newlines until "baseurl:"
   Polestar Consulting Services offers software development and operations support.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://polestar.services" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 theme: minima
