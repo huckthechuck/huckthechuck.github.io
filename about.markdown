@@ -3,16 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+Polestart Consulting Services is a software development and technology services provider, that focuses on web services and application development, providing small and medium businesses with the tools to protect their data and online systems from cyberattacks. Additionally, we offer solutions to improve customer engagement and employee training.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+If you need assistance with custom application development, customer service, employee training, or safeguarding your business data and online infrastructure, please fill out the form to get in touch with us.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdyk137qTRyxbgMnBF2VEdPGFwMXhSDyWxpWfNZFAHCnubCmQ/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading…</iframe>
